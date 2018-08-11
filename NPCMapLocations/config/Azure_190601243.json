@@ -1,0 +1,25 @@
+{
+  "MenuKey": "Tab",
+  "TooltipKey": "Space",
+  "NameTooltipMode": 1,
+  "ImmersionOption": 1,
+  "ByHeartLevel": false,
+  "HeartLevelMin": 0,
+  "HeartLevelMax": 12,
+  "OnlySameLocation": false,
+  "ShowHiddenVillagers": false,
+  "MarkQuests": true,
+  "NPCBlacklist": [
+    "Marlon",
+    "Sandy"
+  ],
+  "ShowTravelingMerchant": true,
+  "VillagerCrop": {},
+  "ShowCustomNPC1": true,
+  "ShowCustomNPC2": true,
+  "ShowCustomNPC3": true,
+  "ShowCustomNPC4": true,
+  "ShowCustomNPC5": true,
+  "ShowFarmBuildings": true,
+  "CustomNPCs": {}
+}
